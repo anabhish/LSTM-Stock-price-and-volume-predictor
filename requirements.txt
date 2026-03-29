@@ -1,0 +1,14 @@
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.3.2
+tensorflow==2.15.0
+streamlit==1.54.0
+scikeras==0.12.0
+scikit-learn==1.3.2
+plotly
+matplotlib
+matplotlib-inline
+joblib
+pandas
+streamlit
+fsspec
